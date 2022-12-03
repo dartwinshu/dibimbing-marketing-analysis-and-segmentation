@@ -17,4 +17,4 @@ B. Marketing Analysis and Segmentation - Part 02
 C. Marketing Analysis and Segmentation - Part 03
 1. RFM Quartile Technique
 
-D. Marketing Analysis and Segmentation - Assignmenty
+D. Marketing Analysis and Segmentation - Assignment
